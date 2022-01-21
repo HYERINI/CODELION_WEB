@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+
+footer{
+    font-family: 'Montserrat';
+}
 .name-text {                                  
     font-size: 17px;                         
     color: #7c7c7c;
@@ -11,7 +16,7 @@
     margin-right: auto;
     margin-left: auto;
     border: 1px solid #ebebeb;
-    box-shadow: 0 1px 20px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 1px 20px 0 rgba(255,192,203,1);
 }
 
 footer {
